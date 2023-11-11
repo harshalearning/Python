@@ -37,4 +37,10 @@ None Type:NoneType: Represents the None object, which is used to indicate the ab
 Custom Data Types: You can also define your custom data types using classes and objects.
 
 
+Pillars to master any programming language:
+
+    1) Key words
+    2) Data Types
+    3) Operators
+    4) Logical reasoning
 
